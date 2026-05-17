@@ -84,7 +84,9 @@ It is widely used for text classification problems because it works well with wo
 - **sentiment_analysis.py** → Used to train the Naive Bayes model  
 - **main.py** → Used to test and predict sentiment from user input  
 - **cleaned_reviews.csv** → Dataset downloaded from Kaggle  
-- **model folder** → Stores trained model and vectorizer  
+- **model folder** → Stores trained model and vectorizer
+- **accuracy.png**** output**
+- **prediction.png** output
 
 ---
 
